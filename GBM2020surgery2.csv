@@ -1,0 +1,191 @@
+type,sex,Eloquent,Surgery,CCRT_gr
+death,female,no,Bx,no
+death,female,yes,Partial resection,CCRT
+death,male,yes,Partial resection,no
+no,male,yes,Total resection,CCRT
+death,male,no,Partial resection,CCRT
+no,male,no,Partial resection,no
+death,female,no,Partial resection,no
+death,male,no,Partial resection,no
+death,female,no,Total resection,CCRT
+death,male,yes,Partial resection,no
+death,female,no,Total resection,CCRT
+death,male,no,Bx,CCRT
+death,female,no,Bx,no
+death,male,yes,Bx,no
+death,male,yes,Bx,no
+death,female,yes,Total resection,CCRT
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,no,Partial resection,no
+death,female,no,Bx,no
+death,female,yes,Partial resection,CCRT
+death,female,no,Partial resection,no
+death,female,no,Bx,no
+death,male,no,Bx,no
+death,male,yes,Partial resection,CCRT
+death,female,yes,Total resection,no
+no,female,no,Total resection,CCRT
+death,female,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Bx,no
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,male,no,Partial resection,no
+death,male,yes,Bx,no
+death,male,yes,Total resection,no
+death,male,no,Partial resection,no
+no,male,no,Partial resection,no
+death,female,yes,Partial resection,no
+no,female,yes,Partial resection,no
+death,male,no,Total resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,female,yes,Total resection,CCRT
+no,male,yes,Partial resection,CCRT
+death,male,no,Partial resection,no
+no,male,yes,Total resection,no
+no,female,no,Bx,CCRT
+death,female,yes,Partial resection,no
+death,male,no,Total resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,male,no,Partial resection,no
+death,female,no,Partial resection,no
+death,female,yes,Total resection,CCRT
+death,male,no,Partial resection,CCRT
+no,male,no,Total resection,CCRT
+death,male,yes,Total resection,no
+death,male,no,Bx,no
+death,male,yes,Partial resection,CCRT
+death,female,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,no,Partial resection,no
+no,female,no,Partial resection,CCRT
+death,female,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,no,Partial resection,no
+death,female,no,Bx,no
+death,female,no,Partial resection,CCRT
+death,female,yes,Partial resection,CCRT
+death,female,yes,Partial resection,CCRT
+death,male,yes,Bx,no
+death,male,yes,Total resection,no
+no,female,yes,Total resection,CCRT
+death,male,yes,Partial resection,no
+no,female,yes,Partial resection,CCRT
+death,male,yes,Partial resection,no
+no,female,no,Total resection,no
+death,male,no,Bx,no
+death,female,yes,Partial resection,CCRT
+death,female,no,Partial resection,CCRT
+death,male,no,Partial resection,no
+no,female,no,Bx,CCRT
+death,male,yes,Partial resection,CCRT
+death,male,yes,Partial resection,CCRT
+death,male,no,Bx,CCRT
+death,male,yes,Total resection,CCRT
+death,female,yes,Total resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,CCRT
+death,male,yes,Partial resection,CCRT
+death,female,yes,Total resection,no
+death,male,no,Bx,CCRT
+death,male,no,Partial resection,no
+death,male,no,Bx,no
+death,female,yes,Total resection,no
+death,male,no,Total resection,no
+death,male,yes,Partial resection,no
+no,male,no,Partial resection,no
+death,female,yes,Partial resection,CCRT
+death,male,yes,Bx,CCRT
+death,female,no,Partial resection,CCRT
+death,male,yes,Partial resection,no
+no,female,yes,Partial resection,CCRT
+death,male,no,Bx,no
+death,female,yes,Bx,no
+death,male,yes,Partial resection,no
+no,male,no,Total resection,no
+death,male,yes,Bx,no
+death,male,yes,Partial resection,CCRT
+death,female,yes,Partial resection,CCRT
+death,female,yes,Partial resection,no
+no,female,no,Bx,CCRT
+death,female,no,Partial resection,no
+death,male,no,Partial resection,no
+death,male,yes,Bx,no
+death,male,yes,Bx,no
+death,male,yes,Bx,no
+death,male,no,Total resection,CCRT
+no,male,no,Total resection,no
+death,female,no,Partial resection,CCRT
+death,female,yes,Partial resection,no
+death,female,yes,Total resection,no
+death,male,yes,Partial resection,CCRT
+death,male,no,Partial resection,no
+death,female,no,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,no,Partial resection,CCRT
+death,female,no,Partial resection,CCRT
+death,female,no,Total resection,no
+no,female,no,Partial resection,CCRT
+death,male,yes,Partial resection,no
+death,male,yes,Total resection,CCRT
+death,male,yes,Total resection,no
+no,female,yes,Total resection,CCRT
+death,female,yes,Partial resection,no
+death,male,no,Partial resection,CCRT
+no,female,no,Total resection,CCRT
+death,female,yes,Partial resection,no
+death,female,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,female,no,Partial resection,no
+death,female,yes,Partial resection,no
+death,male,no,Total resection,CCRT
+no,female,no,Total resection,no
+no,male,yes,Total resection,no
+death,male,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,no,Partial resection,no
+death,male,no,Partial resection,no
+death,female,yes,Partial resection,CCRT
+death,male,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,no,Partial resection,no
+death,male,yes,Partial resection,no
+no,male,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,male,yes,Bx,no
+death,male,yes,Partial resection,CCRT
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,CCRT
+death,female,yes,Total resection,no
+death,male,yes,Partial resection,CCRT
+death,male,no,Partial resection,no
+death,male,yes,Bx,CCRT
+death,male,no,Total resection,CCRT
+death,male,yes,Total resection,CCRT
+death,male,yes,Partial resection,CCRT
+death,male,yes,Partial resection,CCRT
+death,male,no,Partial resection,no
+death,female,no,Partial resection,no
+death,male,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,no
+death,male,yes,Partial resection,no
+death,male,no,Partial resection,no
+death,female,no,Partial resection,no
+death,female,yes,Partial resection,no
+death,female,yes,Partial resection,CCRT
+death,male,yes,Total resection,no
+death,male,yes,Total resection,no
+death,female,yes,Partial resection,no
